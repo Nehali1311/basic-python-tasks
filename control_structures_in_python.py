@@ -17,7 +17,7 @@ else:
 # Task 2: Sum of Integers from 1 to 50 Using a Loop
 
 total = 0
-for number in range(1, 50):
+for number in range(1, 51):
     total += number
 
 print(f"The sum of integers from 1 to 50 is: {total}")
